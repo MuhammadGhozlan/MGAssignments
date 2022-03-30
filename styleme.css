@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(68, 68, 68) ;
+    
+}
+
+h1{
+    color:rgb(100, 100, 245);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+p>em{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(146, 146, 7);
+    font-style: italic;  
+    font-weight: lighter;
+   
+     
+}
+
+h2{
+    color:rgb(100, 100, 245);
+    font-size:3ch;
+}
+
+li{
+    font-weight:bold;
+}
+
+a{
+    color:red;
+}
+ul,ol{
+    text-align: left;
+    margin:40px;
+}
+
+
+
+
+
